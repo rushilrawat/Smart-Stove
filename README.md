@@ -117,8 +117,8 @@ Originally built in 2019,8th grade by [Rushil Rawat](https://github.com/rushilra
 
 ## 👨‍🔧 Authors & Credits
 
-- [Rushil Rawat](https://github.com/RushilRawat) – Code, logic, safety systems  
-- [Arghya Shubhshiv](https://github.com/ArghyaShubhshiv) – Hardware, early design  
+- [Rushil Rawat](https://github.com/RushilRawat)  
+- [Arghya Shubhshiv](https://github.com/ArghyaShubhshiv) 
 - Special thanks to **Shivam Sir** and **ATL Lab DPS Noida** for mentorship and support
 
 ---
