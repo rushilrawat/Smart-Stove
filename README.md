@@ -7,7 +7,7 @@
 **Smart Stove** is an Arduino-based system designed to enhance kitchen safety by combining real-time cooking control with built-in hazard detection.  
 It automates stove operation with sensor-based decision-making and alerts, making cooking safer, smarter, and stress-free.
 
-Originally built in 2019,8th grade by [Rushil Rawat](https://github.com/rushilrawat) and [Arghya Shubhshiv](https://github.com/ArghyaShubhshiv), it has since been upgraded several times for real-world use.
+Originally built in 2019, 8th grade by [Rushil Rawat](https://github.com/rushilrawat) and [Arghya Shubhshiv](https://github.com/ArghyaShubhshiv), it has since been upgraded several times for real-world use.
 
 ---
 
@@ -41,6 +41,14 @@ Originally built in 2019,8th grade by [Rushil Rawat](https://github.com/rushilra
 | Buzzer                 | D8               | Alerts and feedback                |
 | 16x2 LCD (I2C)         | SDA/SCL          | Real-time info display             |
 | EEPROM (built-in)      | —                | Saves last used mode              |
+
+---
+
+## 📚 Libraries Required
+
+- [`LiquidCrystal_I2C.h`](https://github.com/johnrickman/LiquidCrystal_I2C)
+- [`Servo.h`](https://www.arduino.cc/reference/en/libraries/servo/) 
+- [`EEPROM.h`](https://www.arduino.cc/en/Reference/EEPROM)
 
 ---
 
